@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--List item's dimensions-->
+    <dimen name="list_item_height">88dp</dimen>
+
+    <!--List item's ImageView-->
+    <dimen name="list_item_picture_width">88dp</dimen>
+    <dimen name="list_item_picture_height">88dp</dimen>
+
+    <!--List item's location image-->
+    <dimen name="list_item_location_symbol_width">16dp</dimen>
+    <dimen name="list_item_location_symbol_height">16dp</dimen>
+</resources>

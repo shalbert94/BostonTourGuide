@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Title bar-->
+    <color name="colorPrimary">#00bfff</color>
+    <!--Notification bar-->
+    <color name="colorPrimaryDark">#009acd</color>
+    <!--Default accent-->
+    <color name="colorAccent">#FF4081</color>
+</resources>
